@@ -45,7 +45,7 @@ Following are the Training and Validation losses and the predictions made by the
 
 Different learning rates, Number of Iterations and Number of Hidden Nodes were tried to see the effects of these hyper parameters. Following are the analysis produced:
 
-![Changing-Iterations](plots/Changing-Iterations.png)
 ![Changing-Learning-Rate](plots/Changing-Learning-Rate.png)
 ![Changing-Number-of-Hidden-Nodes](plots/Changing-Number-of-Hidden-Nodes.png)
+![Changing-Iterations](plots/Changing-Iterations.png)
 ![Validation-Loss-Change-on-different-Hyper-Parameters](plots/Validation-Loss-Change-on-different-Hyper-Parameters.png)
